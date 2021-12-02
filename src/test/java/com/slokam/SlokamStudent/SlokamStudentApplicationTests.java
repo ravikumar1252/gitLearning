@@ -8,6 +8,7 @@ class SlokamStudentApplicationTests {
 	//goodnight
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
