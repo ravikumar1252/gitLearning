@@ -12,7 +12,7 @@ import com.slokam.SlokamStudentmgt.entity.SlokamStudent;
 @RestController
 @RequestMapping("SStudent")
 public class SlokamStudentController {
-	//Hello iam ravikumar
+	//Hello iam ravikumar from slokam
 	@Autowired
 private SlokamStudent SlokamStudentRepo;
 	
