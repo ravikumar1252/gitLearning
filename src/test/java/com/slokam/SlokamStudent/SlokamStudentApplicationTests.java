@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SlokamStudentApplicationTests {
-	//goodnight
+	//goodnight this day
 	@Test
 	void contextLoads() {
 		
